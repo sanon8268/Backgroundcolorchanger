@@ -1,0 +1,23 @@
+
+
+img{
+    width: 40%;
+    height: 400px;
+    margin: 78px 0;
+    transition: 0.4s;
+    border-radius: 8px;
+}
+
+img:hover{
+    cursor: pointer;
+    transform: scale(1.06);
+    box-shadow: 10px 10px 8px #888888;
+}
+
+h4{
+    position: relative;
+    bottom: 40px;
+    font-size: 19px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
